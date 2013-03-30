@@ -1,0 +1,570 @@
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\CorpBusiness.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\CorpBusiness.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Esent.Interop.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\ICSharpCode.NRefactory.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Lucene.Net.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Ninject.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\NLog.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Database.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Munin.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\WebActivator.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Esent.Interop.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Esent.Interop.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Lucene.Net.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Lucene.Net.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Ninject.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Ninject.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\NLog.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Database.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Database.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Munin.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Munin.xml
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.pdb
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.dll
+c:\users\user\documents\visual studio 2010\Projects\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.pdb
+D:\MV\CorpBusiness\CorpBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\MV\CorpBusiness\CorpBusiness\bin\CorpBusiness.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\CorpBusiness.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Esent.Interop.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\ICSharpCode.NRefactory.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Lucene.Net.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Microsoft.Web.Infrastructure.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Ninject.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\NLog.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Database.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Munin.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\WebActivator.dll
+D:\MV\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Esent.Interop.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Esent.Interop.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Lucene.Net.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Lucene.Net.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Ninject.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Ninject.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\NLog.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Database.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Database.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Munin.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Munin.xml
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.pdb
+D:\MV\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.pdb
+D:\MV\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.dll
+D:\MV\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\CorpBusiness.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\CorpBusiness.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Esent.Interop.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\ICSharpCode.NRefactory.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Lucene.Net.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Microsoft.Web.Infrastructure.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Ninject.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\NLog.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Database.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Munin.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\WebActivator.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Esent.Interop.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Esent.Interop.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Lucene.Net.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Lucene.Net.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Ninject.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Ninject.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\NLog.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Database.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Database.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Munin.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Munin.xml
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.pdb
+D:\MV12032013\CorpBusiness\CorpBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\MV12032013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.dll
+D:\MV12032013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\CorpBusiness.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\CorpBusiness.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Esent.Interop.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\ICSharpCode.NRefactory.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\NLog.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Database.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Munin.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\WebActivator.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Esent.Interop.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Esent.Interop.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\NLog.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Database.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Database.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Munin.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Munin.xml
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.pdb
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.dll
+C:\Users\user\Desktop\13_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\CorpBusiness.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\CorpBusiness.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Esent.Interop.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\ICSharpCode.NRefactory.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Microsoft.Web.Infrastructure.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\NLog.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Database.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Munin.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\WebActivator.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Esent.Interop.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Esent.Interop.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\NLog.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Database.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Database.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Munin.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Munin.xml
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.pdb
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.dll
+D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\CorpBusiness.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\CorpBusiness.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Esent.Interop.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\ICSharpCode.NRefactory.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Microsoft.Web.Infrastructure.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\NLog.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Database.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Munin.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\WebActivator.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Esent.Interop.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Esent.Interop.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\NLog.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Database.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Database.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Munin.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Munin.xml
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.pdb
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.dll
+D:\BackUp\19_03_2013_Last\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\CorpBusiness.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\CorpBusiness.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\AsyncCtpLibrary.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\BouncyCastle.Crypto.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Esent.Interop.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\ICSharpCode.NRefactory.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Lucene.Net.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Microsoft.Web.Infrastructure.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Newtonsoft.Json.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Ninject.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Ninject.Web.Common.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Ninject.Web.Mvc.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\NLog.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Abstractions.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.Embedded.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.Lightweight.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.MvcIntegration.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Database.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Munin.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Storage.Esent.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Storage.Managed.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\WebActivator.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\AsyncCtpLibrary.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\BouncyCastle.Crypto.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Esent.Interop.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Esent.Interop.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Lucene.Net.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Lucene.Net.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Newtonsoft.Json.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Newtonsoft.Json.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Ninject.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Ninject.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Ninject.Web.Common.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Ninject.Web.Common.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Ninject.Web.Mvc.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Ninject.Web.Mvc.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\NLog.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Abstractions.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Abstractions.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.Embedded.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.Embedded.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.Lightweight.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.Lightweight.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Client.MvcIntegration.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Database.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Database.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Munin.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Munin.xml
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Storage.Esent.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\bin\Raven.Storage.Managed.pdb
+D:\Final\CorpBusiness_23032013\CorpBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\Final\CorpBusiness_23032013\CorpBusiness\obj\Debug\CorpBusiness.dll
+D:\Final\CorpBusiness_23032013\CorpBusiness\obj\Debug\CorpBusiness.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\CorpBusiness.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\CorpBusiness.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\fr\CorpBusiness.resources.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Esent.Interop.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\ICSharpCode.NRefactory.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Microsoft.Web.Infrastructure.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\NLog.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Database.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Munin.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\WebActivator.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Esent.Interop.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Esent.Interop.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\NLog.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Database.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Database.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Munin.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Munin.xml
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.pdb
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.MultiResources.Multi.resources
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.MultiResources.Multi.fr.resources
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\obj\Debug\GenerateResource.read.1.tlog
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\obj\Debug\GenerateResource.write.1.tlog
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\obj\Debug\fr\CorpBusiness.resources.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.dll
+D:\Final\23_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\CorpBusiness.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\CorpBusiness.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\fr\CorpBusiness.resources.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Esent.Interop.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\ICSharpCode.NRefactory.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Microsoft.Web.Infrastructure.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\NLog.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Database.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Munin.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\WebActivator.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\AsyncCtpLibrary.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\BouncyCastle.Crypto.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Esent.Interop.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Esent.Interop.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.Spatial.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Lucene.Net.Contrib.SpellChecker.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Newtonsoft.Json.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Common.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Ninject.Web.Mvc.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\NLog.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Abstractions.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Embedded.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.Lightweight.FSharp.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Client.MvcIntegration.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Database.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Database.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Munin.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Munin.xml
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Esent.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\bin\Raven.Storage.Managed.pdb
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.MultiResources.Multi.resources
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.MultiResources.Multi.fr.resources
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\obj\Debug\GenerateResource.read.1.tlog
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\obj\Debug\GenerateResource.write.1.tlog
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\obj\Debug\fr\CorpBusiness.resources.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.dll
+D:\Final\29_03_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.pdb

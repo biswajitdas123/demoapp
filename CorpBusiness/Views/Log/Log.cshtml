@@ -1,0 +1,82 @@
+﻿@model CorpBusiness.Models.LoginPage
+@using CorpBusiness.MultiResources
+@{
+    Layout = "~/Views/Shared/_SiteLayout.cshtml";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Login</title>
+   
+</head>
+<body>
+    <script src="@Url.Content("~/Scripts/jquery-1.4.4.min.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+    
+    @using (Html.BeginForm())
+    {
+         <script type="text/javascript">
+             $(document).ready(function () {
+                // alert("vghfhfh");
+                 var selectedValue = $('#Languages').val();
+                 $('#Languages').val(selectedValue);
+             });
+             $("#Languages").change(function () {
+                 debugger;
+                // alert("vghfhfh");
+                 var language = $("#Language option:selected").val();
+                 $('#Languages').val(language);
+                 CreateCookie("Arsenal", language, 365);
+                 window.location.reload();
+             });
+             function CreateCookie(name, value, days) {
+                 var expire = null;
+                 var CookieName = null;
+                 if (days) {
+                     var date = new date();
+                     date.setTime(date.getTime() + days(24 * 60 * 60 * 1000));
+                     expire = "; expire =" + date.toGMTString();
+                     CookieName = name + "=" + value + expire + ";path= /";
+                     document.cookie = CookieName;
+                 }
+                 else {
+                     expire = "";
+                     document.cookie = name + "=" + value + expire + ";path= /";
+                 }
+             }
+</script>
+        @Html.ValidationSummary(true)
+       @* @Html.Hidden("Language")
+        @Html.DropDownList("Languages", (IEnumerable<SelectListItem>)ViewBag.Languages)*@
+        <fieldset>
+            <legend>@Multi.Login</legend>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.UserID, Multi.Email)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.UserID)
+                @Html.ValidationMessageFor(model => model.UserID)
+            </div>
+    
+            <div class="editor-label">
+                @Html.LabelFor(model => model.Password, Multi.Password)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Password)
+                @Html.ValidationMessageFor(model => model.Password)
+            </div>
+    
+            <p>
+                <input type="submit" value="Submit" />
+            </p>
+        </fieldset>
+    }
+    
+    @*<div>
+        @Html.ActionLink("Back to List","Index", "Home")
+    </div>*@
+</body>
+</html>

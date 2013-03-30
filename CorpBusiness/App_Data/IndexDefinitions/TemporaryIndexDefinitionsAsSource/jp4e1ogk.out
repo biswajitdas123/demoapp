@@ -1,0 +1,6 @@
+﻿C:\Program Files\Common Files\Microsoft Shared\DevServer\10.0> "C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe" /t:library /utf8output /R:"C:\Users\user\AppData\Local\Temp\Temporary ASP.NET Files\root\f5012591\361eb49e\assembly\dl3\0b0f03a8\6618c5cf_321bce01\Raven.Abstractions.DLL" /R:"C:\Users\user\AppData\Local\Temp\Temporary ASP.NET Files\root\f5012591\361eb49e\assembly\dl3\0aec35eb\b0c707d0_321bce01\Raven.Database.DLL" /R:"C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll" /R:"C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll" /R:"C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll" /R:"C:\Users\user\AppData\Local\Temp\Temporary ASP.NET Files\root\f5012591\361eb49e\assembly\dl3\8ba764c8\61e7b6cf_321bce01\Lucene.Net.DLL" /out:"D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\App_Data\IndexDefinitions\TemporaryIndexDefinitionsAsSource\jp4e1ogk.dll" /debug- /optimize+  "D:\BackUp\14_03_2013_Last\CorpBusiness\CorpBusiness\App_Data\IndexDefinitions\TemporaryIndexDefinitionsAsSource\jp4e1ogk.0.cs"
+
+
+Microsoft (R) Visual C# 2010 Compiler version 4.0.30319.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
