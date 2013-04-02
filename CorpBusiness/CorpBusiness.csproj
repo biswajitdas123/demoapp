@@ -282,14 +282,17 @@
     <Content Include="Images\thumbs\s05.png" />
     <Content Include="Images\thumbs\s06.png" />
     <Content Include="Raven.Studio.xap" />
+    <Content Include="Scripts\it.js" />
     <Content Include="Scripts\jquery-1.5.min.js" />
     <Content Include="Scripts\jquery-1.9.1-vsdoc.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\jquery-lang.js" />
     <Content Include="Scripts\jsr_class.js" />
     <Content Include="Scripts\Lng_Lat.js" />
     <Content Include="Scripts\OpenLayers.js" />
     <Content Include="Scripts\OpenStreetMap.js" />
+    <Content Include="Scripts\th.js" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -305,7 +308,6 @@
     <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
-    <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\jquery.validate-vsdoc.js" />
@@ -317,7 +319,9 @@
     <Content Include="Scripts\MicrosoftMvcAjax.debug.js" />
     <Content Include="Scripts\MicrosoftMvcValidation.js" />
     <Content Include="Scripts\MicrosoftMvcValidation.debug.js" />
-    <Content Include="Views\Web.config" />
+    <Content Include="Views\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\Log\CreateLog.cshtml" />
     <Content Include="Views\Log\Log.cshtml" />
     <Content Include="Views\Admin\Login.cshtml" />

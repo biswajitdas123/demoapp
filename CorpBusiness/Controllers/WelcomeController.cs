@@ -29,12 +29,24 @@ namespace CorpBusiness.Controllers
 
             vd.StateModel = new List<State1>();
             vd.StateModel = GetAllState1();
-            //-----------------
+            //////////////////////////////////////////////////////
             var addrs = new List<String>
                     {
                        "No Data"
                     };
             ViewData["addrs"] = addrs;
+            ///////////////////////////////////////////////////////
+            var addrs2 = new List<String>
+                    {
+                       "."
+                    };
+            ViewData["lat_lon"] = addrs2;
+            ///////////////////////////////////////////////////////
+            var addrs3 = new List<String>
+                    {
+                       "."
+                    };
+            ViewData["city_zip"] = addrs3;
             return View(vd);
         }
         [HttpPost]
@@ -56,15 +68,14 @@ namespace CorpBusiness.Controllers
             vndr.StateModel = GetAllState1();
             vndr.Manufacturers = GetManufacturerList();
             /////////////////////////////////////////////////////////////////--Part-2--//////////////////////////////////////
-            string address = "", zip = "", phone_no = "";
+            string address = "", LtLn = "", zip = "";
 
             for (int i = 0; i < retrv_qry.Count; i++)
             {
-                address = address + retrv_qry[i].Address1 + " " + retrv_qry[i].Pin + " " + retrv_qry[i].Phone + "~";
-                //string[] split = address.Split(new Char[] { '   ' });
-                // zip = zip + Environment.NewLine + retrv_qry[i].Pin + Environment.NewLine;
-                // phone_no = phone_no + Environment.NewLine + retrv_qry[i].Phone + Environment.NewLine;
-
+                //address = address + retrv_qry[i].Address1 + " " + retrv_qry[i].Pin + " " + retrv_qry[i].Phone + "~";
+                address = address + retrv_qry[i].Address1 + " " + retrv_qry[i].Pin + " " + retrv_qry[i].Phone + Environment.NewLine;
+                zip = retrv_qry[i].Pin;
+                LtLn = LtLn + retrv_qry[i].Latitude + "," + retrv_qry[i].Longitude + "~";
             }
 
             if (retrv_qry != null)
@@ -72,14 +83,22 @@ namespace CorpBusiness.Controllers
                 var addrs = new List<String>
                     {
                        address
-                       
-                      // zip,
-                      // phone_no
                        //retrv_qry[0].Address1,
                        //retrv_qry[1].Address1
-                      
                     };
                 ViewData["addrs"] = addrs;
+                /////////////////////////////////////////////////////////
+                var addrs2 = new List<String>
+                    {
+                      LtLn
+                    };
+                ViewData["lat_lon"] = addrs2;
+                /////////////////////////////////////////////////////////
+                var addrs3 = new List<String>
+                    {
+                      zip
+                    };
+                ViewData["city_zip"] = addrs3;
             }
             else
             {
@@ -88,6 +107,18 @@ namespace CorpBusiness.Controllers
                        "No Data"
                     };
                 ViewData["addrs"] = addrs;
+                ////////////////////////////////////////////////////////
+                var addrs2 = new List<String>
+                    {
+                       "."
+                    };
+                ViewData["lat_lon"] = addrs2;
+                ////////////////////////////////////////////////////////
+                var addrs3 = new List<String>
+                    {
+                       "."
+                    };
+                ViewData["city_zip"] = addrs3;
             }
             return View(vndr);
         }
