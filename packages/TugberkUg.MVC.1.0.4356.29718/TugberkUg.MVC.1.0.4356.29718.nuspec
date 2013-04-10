@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>TugberkUg.MVC</id>
+    <version>1.0.4356.29718</version>
+    <title>TugberkUg.MVC</title>
+    <authors>Tugberk Ugurlu</authors>
+    <owners>Tugberk Ugurlu</owners>
+    <projectUrl>http://www.tugberkugurlu.com/</projectUrl>
+    <iconUrl>http://www.tugberkugurlu.com/Content/Images/UploadedByAuthors/@Personal/tugberk_ugurlu_head_shot_original.JPG</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tugberk's most common used Html Helpers, Helper Results, Extensions, RouteConstraints, etc. for ASP.NET MVC 3</description>
+    <summary>Tugberk's most common used Html Helpers, Helper Results, Extensions, RouteConstraints, etc. for ASP.NET MVC 3</summary>
+    <copyright>Copyright 2011</copyright>
+    <tags>tugberk aspnetmvc mvc mvchelpers net40</tags>
+    <dependencies>
+      <dependency id="elmah.corelibrary" version="1.2" />
+    </dependencies>
+    <references>
+      <reference file="TugberkUg.MVC.dll" />
+    </references>
+  </metadata>
+</package>

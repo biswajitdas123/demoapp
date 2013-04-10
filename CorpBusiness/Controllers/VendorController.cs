@@ -11,6 +11,8 @@ using System.Text;
 using System.Net;
 using System.Net.Mail;
 using System.Security.Cryptography;
+using System.Globalization;
+using System.Web.UI;
 
 
 
@@ -47,9 +49,6 @@ namespace CorpBusiness.Controllers
                 //return View();
             }
         }
-
-
-        //
         // GET: /Vendor/Details/5
         //[ActionName("VendorDetails")]
         public ActionResult VendorDetails(int id)
@@ -67,18 +66,6 @@ namespace CorpBusiness.Controllers
             }
         }
 
-
-        //private void FillList()
-        //{
-        //    var employees = _documentSession.Query<Category>().ToList();
-        //   //var people = new List<Person>();
-        //    for (int i = 0; i < employees.Count; i++)
-        //    {
-        //     var  results = (from Categories in _documentSession.Query<Category>() select Categories.Categories).ToArray();
-
-        //         //   people.Add(new Person { ID = i, Name = "Person " + i.ToString() });              
-        //    }         
-        //}
         private List<SelectListItem> GetManufacturerList()
         {
             List<SelectListItem> manuList = new List<SelectListItem>();
@@ -93,33 +80,17 @@ namespace CorpBusiness.Controllers
             return manuList;
         }
 
-        [HttpPost]
-        public ActionResult GetCityByStaeId(int stateid)
-        {
-            List<City> objcity = new List<City>();
-            objcity = GetAllCity().Where(m => m.StateId == stateid).ToList();
-            SelectList obgcity = new SelectList(objcity, "Id", "CityName", 0);
-            return Json(obgcity);
-            //return View();
-        }
 
         public ActionResult CreateVendor(FormCollection collection, Category cat)
         {
 
             if (Session["vendor"] != null)
             {
-                //Mov objcountrymodel = new Mov();
-                //objcountrymodel.StateModel = new List<State>();
-                //objcountrymodel.StateModel = GetAllState();
-                //return View(objcountrymodel);
+
                 Vendor vd = new Vendor();
                 vd.Manufacturers = GetManufacturerList();
-                //vd.StateModel=
                 vd.StateModel = new List<State1>();
                 vd.StateModel = GetAllState1();
-                //  FillList();
-                //----------------------------------
-
                 vd.EMailUser = Session["vendor"].ToString();
                 var move = _documentSession.Load<Mov>();
                 return View(vd);
@@ -130,14 +101,6 @@ namespace CorpBusiness.Controllers
             }
 
         }
-        //[HttpPost]
-        //public ActionResult GetCityByStaeId1(int stateid)
-        //{
-        //    List<City> objcity = new List<City>();
-        //    objcity = GetAllCity().Where(m => m.StateId == stateid).ToList();
-        //    SelectList obgcity = new SelectList(objcity, "Id", "CityName", 0);
-        //    return Json(obgcity);
-        //}
 
         [HttpPost]
         public ActionResult CreateVendor(Vendor vndr, FormCollection formCollection)
@@ -147,22 +110,13 @@ namespace CorpBusiness.Controllers
             {
 
                 if (!ModelState.IsValid)
-                    //return View();
 
 
-                    // Vendor[] vendor= _documentSession.Query<Vendor>().Where(x => x.StateModel == vndr.StateModel).ToArray();
-                    vndr.Country = "";
+                vndr.Country = "";
                 List<State1> objCountry = new List<State1>();
                 objCountry = GetAllState1().Where(m => m.Id.ToString() == Request.Form["Country"]).ToList();
                 var objCoun = objCountry[0].StateName;
-
-                //List<State1> manuList = new List<State1>();
-                //GetAllState1().Select(m => m.Id.ToString() == Request.Form["Country"]).ToList();
-                //objCountry = (from StateName in (GetAllState1().Where(m =>m.Id.ToString() == Request.Form["Country"])).ToList();
-                //objCountry.
-                //Json(objCountry);
                 vndr.Country = objCoun;
-
                 _documentSession.Store(vndr);
                 _documentSession.SaveChanges();
 
@@ -267,19 +221,10 @@ namespace CorpBusiness.Controllers
         public ActionResult UserList(String message)
         {
             var mov = _documentSession.Query<Mov>().Where(x => x.Email == Session["vendor"].ToString()).Take(50).ToList();
-            //var mov = _documentSession.Query<Mov>()
-            //    .Customize(x => x.WaitForNonStaleResults())
-            //    .Take(50).ToList();
             return View(mov);
-
-
-
-
         }
         public ActionResult DetailsUser(int id)
         {
-            //var mov=_documentSession.Query<>;
-
             var mov = _documentSession.Load<Mov>(id);
             if (mov == null)
                 return RedirectToAction("Users", new { message = string.Format("mov {0} not found", id) });
@@ -295,34 +240,62 @@ namespace CorpBusiness.Controllers
             return View(objcountrymodel);
             //  return View();
         }
-        //[HttpPost]
-        //public ActionResult GetCityByStaeId1(int stateid)
-        //{
-        //    List<City> objcity = new List<City>();
-        //    objcity = GetAllCity().Where(m => m.StateId == stateid).ToList();
-        //    SelectList obgcity = new SelectList(objcity, "Id", "CityName", 0);
-        //    return Json(obgcity);
-        //}
 
+        public ActionResult DisallowName(string Email)
+        {
+            var log1 = _documentSession.Query<Mov>()
+               .Where(x => x.Email == Email)
+               .Take(1).ToList();
+
+            if (log1.Count > 0)
+            {
+                return Json(string.Format("{0} is already exist!", Email),
+                     JsonRequestBehavior.AllowGet);
+            }
+            return Json(true, JsonRequestBehavior.AllowGet);
+
+        }
         [HttpPost]
         public ActionResult CreateUser(Mov move)
         {
+               
+            //if (!ModelState.IsValid)
+            var log1 = _documentSession.Query<Mov>()
+              .Where(x => x.Email == move.Email)
+              .Take(1).ToList();
 
-            if (!ModelState.IsValid)
-                return View();
+            if (log1.Count > 0)
+            {
+                return Json(string.Format("{0} is already exist!", move.Email),
+                     JsonRequestBehavior.AllowGet);
+            } 
+            
 
-            Session["vendor"] = move.Email;
-            //move.State = Request["ddlcity"];
-            //move.StateModel = Request["ddlcity"];
-            //move.FilteredCity = Request["ddlcity"];
-            _documentSession.Store(move);
-            _documentSession.SaveChanges();
-            Sendmail(move.Email, move.Name);
+            if (move.Email != null && move.Name != null && Request["pass"] == move.RetypePassword)
+            {
+                move.Country = "";
+                List<State1> objCountry = new List<State1>();
+                objCountry = GetAllState1().Where(m => m.Id.ToString() == Request.Form["Country"]).ToList();
+                var objCoun = objCountry[0].StateName;
+                move.Country = objCoun;
+                //-----------------------------------------------------------------
+                Session["vendor"] = move.Email;
+                move.Password = Request["pass"];
+                _documentSession.Store(move);
+                _documentSession.SaveChanges();
+                Sendmail(move.Email, move.Name);
 
-            //return View();
-            return RedirectToAction("Users", new { message = string.Format("Created User {0}", move.Email) });
-
+                //return View();
+                return RedirectToAction("Users", new { message = string.Format("Created User {0}", move.Email) });
+            }
+            else
+            {
+                move.StateModel = new List<State>();
+                move.StateModel = GetAllState();
+                return View(move);
+            }
         }
+
         public ActionResult EditUser(int id)
         {
 
@@ -385,7 +358,7 @@ namespace CorpBusiness.Controllers
             client.Port = 587;
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
             client.EnableSsl = true;
-            //client.Send(msg);
+            client.Send(msg);
 
         }
         public static string GetUniqueKey()
@@ -1102,68 +1075,6 @@ namespace CorpBusiness.Controllers
 
             return objstate;
         }
-        //collection for city
-        public List<City> GetAllCity()
-        {
-            List<City> objcity = new List<City>();
-            objcity.Add(new City { Id = 1, StateId = 1, CityName = "Kabul" });
-            objcity.Add(new City { Id = 2, StateId = 2, CityName = "City2-1" });
-            objcity.Add(new City { Id = 3, StateId = 4, CityName = "City4-1" });
-            objcity.Add(new City { Id = 4, StateId = 1, CityName = "Badakhshan" });
-            objcity.Add(new City { Id = 5, StateId = 1, CityName = "Badghis" });
-            objcity.Add(new City { Id = 6, StateId = 238, CityName = "Washington DC" });
-            objcity.Add(new City { Id = 7, StateId = 238, CityName = "Alabama" });
-            objcity.Add(new City { Id = 8, StateId = 238, CityName = "Alaska" });
-            objcity.Add(new City { Id = 9, StateId = 238, CityName = "Arizona" });
-            objcity.Add(new City { Id = 10, StateId = 238, CityName = "Arkansas" });
-            objcity.Add(new City { Id = 11, StateId = 238, CityName = "California" });
-            objcity.Add(new City { Id = 12, StateId = 238, CityName = "Colorado" });
-            objcity.Add(new City { Id = 13, StateId = 238, CityName = "Connecticut" });
-            objcity.Add(new City { Id = 14, StateId = 238, CityName = "Delaware" });
-            objcity.Add(new City { Id = 15, StateId = 238, CityName = "Georgia" });
-            objcity.Add(new City { Id = 16, StateId = 238, CityName = "Kentucky" });
-            objcity.Add(new City { Id = 17, StateId = 238, CityName = "Hawaii" });
-            objcity.Add(new City { Id = 18, StateId = 238, CityName = "Idaho" });
-            objcity.Add(new City { Id = 19, StateId = 238, CityName = "Illinois" });
-            objcity.Add(new City { Id = 20, StateId = 238, CityName = "Indiana" });
-            objcity.Add(new City { Id = 21, StateId = 238, CityName = "Iowa" });
-            objcity.Add(new City { Id = 22, StateId = 238, CityName = "Kansas" });
-            objcity.Add(new City { Id = 23, StateId = 238, CityName = "Kentucky" });
-            objcity.Add(new City { Id = 24, StateId = 238, CityName = "Louisiana" });
-            objcity.Add(new City { Id = 25, StateId = 238, CityName = "Maine" });
-            objcity.Add(new City { Id = 26, StateId = 238, CityName = "Maryland" });
-            objcity.Add(new City { Id = 27, StateId = 238, CityName = "Massachusets" });
-            objcity.Add(new City { Id = 28, StateId = 238, CityName = "Michigan" });
-            objcity.Add(new City { Id = 29, StateId = 238, CityName = "Minnesota|" });
-            objcity.Add(new City { Id = 30, StateId = 238, CityName = "Mississippi" });
-            objcity.Add(new City { Id = 31, StateId = 238, CityName = "Missouri" });
-            objcity.Add(new City { Id = 32, StateId = 238, CityName = "Montana" });
-            objcity.Add(new City { Id = 33, StateId = 238, CityName = "Nebraska" });
-            objcity.Add(new City { Id = 34, StateId = 238, CityName = "Nevada" });
-            objcity.Add(new City { Id = 35, StateId = 238, CityName = "New Hampshire" });
-            objcity.Add(new City { Id = 36, StateId = 238, CityName = "New Jersey" });
-            objcity.Add(new City { Id = 37, StateId = 238, CityName = "New Mexico" });
-            objcity.Add(new City { Id = 38, StateId = 238, CityName = "New York" });
-            objcity.Add(new City { Id = 39, StateId = 238, CityName = "North Carolina" });
-            objcity.Add(new City { Id = 40, StateId = 238, CityName = "North Dakota" });
-            objcity.Add(new City { Id = 41, StateId = 238, CityName = "Ohio" });
-            objcity.Add(new City { Id = 42, StateId = 238, CityName = "Oklahoma" });
-            objcity.Add(new City { Id = 43, StateId = 238, CityName = "Oregon" });
-            objcity.Add(new City { Id = 44, StateId = 238, CityName = "Pennsylvania" });
-            objcity.Add(new City { Id = 45, StateId = 238, CityName = "Rhode Island" });
-            objcity.Add(new City { Id = 46, StateId = 238, CityName = "South Carolina" });
-            objcity.Add(new City { Id = 47, StateId = 238, CityName = "South Dakota" });
-            objcity.Add(new City { Id = 48, StateId = 238, CityName = "Tennessee" });
-            objcity.Add(new City { Id = 49, StateId = 238, CityName = "Texas" });
-            objcity.Add(new City { Id = 50, StateId = 238, CityName = "Utah" });
-            objcity.Add(new City { Id = 51, StateId = 238, CityName = "Vermont" });
-            objcity.Add(new City { Id = 52, StateId = 238, CityName = "Virginia" });
-            objcity.Add(new City { Id = 53, StateId = 238, CityName = "Washington" });
-            objcity.Add(new City { Id = 54, StateId = 238, CityName = "West Virginia" });
-            objcity.Add(new City { Id = 55, StateId = 238, CityName = "Wisconsin" });
-            objcity.Add(new City { Id = 56, StateId = 238, CityName = "Wyoming" });
 
-            return objcity;
-        }
     }
 }

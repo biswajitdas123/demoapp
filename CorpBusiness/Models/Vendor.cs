@@ -67,6 +67,7 @@ namespace CorpBusiness.Models
 
         [Required]
         [DisplayName("Name")]
+        [RegularExpression(@"A-Z", ErrorMessage = "Only string please!..")]
         public string Name { get; set; }
 
         [Required]
@@ -89,6 +90,7 @@ namespace CorpBusiness.Models
 
         [Required]
         [DisplayName("Pin")]
+        [RegularExpression(@"1-9", ErrorMessage = "Only number please!..")]
         public string Pin { get; set; }
 
         [Required]

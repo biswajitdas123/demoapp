@@ -10,10 +10,12 @@
     <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/css/layout.css")" media="screen" />
     <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/css/nav.css")" media="screen" />
     @*Load JQuery*@
-        <script src="@Url.Content("~/Scripts/jquery-1.9.1.min.js")" type="text/javascript"></script>
+     <script src="../../Scripts/jquery-1.9.1.js" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/modernizr-1.7.min.js")" type="text/javascript"></script>
+   @* <script src="@Url.Content("~/Scripts/jquery-1.9.1.min.js")" type="text/javascript"></script>
     <script src="@Url.Content("~/Scripts/modernizr-1.7.min.js")" type="text/javascript"></script>
     <script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
-    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>*@
 
      @*<script src="@Url.Content("~/Content/js/jquery-1.6.4.min.js")" type="text/javascript"></script>
     <script src="@Url.Content("~/Content/js/jquery-ui/jquery.ui.core.min.js")" type="text/javascript" ></script>
@@ -61,7 +63,7 @@
                             <li><a href="#">Config</a></li>
                            
                             @*<li> <a href="../Admin/LogOff" class="btn-join">LogOff</a></li>*@
-                            <li> @Html.ActionLink("LogOff", "Login")</li>
+                            <li> @Html.ActionLink("LogOff", "LogOff")</li>
                         </ul>
                         <br />
                         <span class="small grey"></span>
@@ -100,14 +102,14 @@
                         <li><a href="table.html">Page with Sidebar Example</a> </li>-->
                     </ul>
                 </li>
-                <li class="ic-grid-tables"><a href="table.html"><span>Data Table</span></a></li>
-                <li class="ic-gallery dd"><a href="javascript:"><span>Image Galleries</span></a>
+                <li class="ic-grid-tables"><a href="#"><span>Data Table</span></a></li>
+                <li class="ic-gallery dd"><a href="#"><span>Image Galleries</span></a>
                	<!--	 <ul>
                         <li><a href="image-gallery.html">Pretty Photo</a> </li>
                         <li><a href="gallery-with-filter.html">Gallery with Filter</a> </li>
                     </ul>-->
                 </li>
-                <li class="ic-notifications"><a href="notifications.html"><span>Notifications</span></a></li>
+                <li class="ic-notifications"><a href="#"><span>Notifications</span></a></li>
 
             </ul>
         </div>

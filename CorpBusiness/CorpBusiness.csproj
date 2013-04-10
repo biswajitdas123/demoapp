@@ -39,6 +39,9 @@
     <Reference Include="BouncyCastle.Crypto">
       <HintPath>..\packages\RavenDB-Embedded.1.0.888\lib\net40\BouncyCastle.Crypto.dll</HintPath>
     </Reference>
+    <Reference Include="Elmah">
+      <HintPath>..\packages\elmah.corelibrary.1.2.2\lib\Elmah.dll</HintPath>
+    </Reference>
     <Reference Include="Esent.Interop">
       <HintPath>..\packages\RavenDB-Embedded.1.0.888\lib\net40\Esent.Interop.dll</HintPath>
     </Reference>
@@ -123,6 +126,9 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
+    <Reference Include="TugberkUg.MVC">
+      <HintPath>..\packages\TugberkUg.MVC.1.0.4356.29718\lib\net40\TugberkUg.MVC.dll</HintPath>
+    </Reference>
     <Reference Include="WebActivator">
       <HintPath>..\packages\WebActivator.1.5.3\lib\net40\WebActivator.dll</HintPath>
     </Reference>
@@ -288,8 +294,10 @@
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Scripts\jquery-lang.js" />
+    <Content Include="Scripts\jquery.validation.js" />
     <Content Include="Scripts\jsr_class.js" />
     <Content Include="Scripts\Lng_Lat.js" />
+    <Content Include="Scripts\modernizr-1.7.min.js" />
     <Content Include="Scripts\OpenLayers.js" />
     <Content Include="Scripts\OpenStreetMap.js" />
     <Content Include="Scripts\th.js" />
@@ -343,9 +351,10 @@
     <Content Include="Views\Admin\DetailsBusiness.cshtml" />
     <Content Include="Views\Admin\EditBusiness.cshtml" />
     <Content Include="Views\Admin\DeleteBusiness.cshtml" />
-    <Content Include="Views\Admin\CreateBusiness.cshtml" />
+    <Content Include="Views\Admin\CreateBusiness1.cshtml" />
     <Content Include="Views\Shared\_VendorLayout_registration.cshtml" />
     <None Include="Scripts\jquery-1.9.1.min.map" />
+    <Content Include="Views\Admin\CreateBusiness.cshtml" />
     <None Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_SiteLayout.cshtml" />
     <Content Include="Views\Shared\Welcome.cshtml" />

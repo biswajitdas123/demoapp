@@ -72,8 +72,8 @@ namespace CorpBusiness.Controllers
 
             for (int i = 0; i < retrv_qry.Count; i++)
             {
-                //address = address + retrv_qry[i].Address1 + " " + retrv_qry[i].Pin + " " + retrv_qry[i].Phone + "~";
-                address = address + retrv_qry[i].Address1 + " " + retrv_qry[i].Pin + " " + retrv_qry[i].Phone + Environment.NewLine;
+                address = address + retrv_qry[i].Address1 + " " + retrv_qry[i].Pin + " " + retrv_qry[i].Phone + "~";
+                //  address = address + retrv_qry[i].Address1 + " " + retrv_qry[i].Pin + " " + retrv_qry[i].Phone+Environment.NewLine;
                 zip = retrv_qry[i].Pin;
                 LtLn = LtLn + retrv_qry[i].Latitude + "," + retrv_qry[i].Longitude + "~";
             }

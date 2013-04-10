@@ -20,10 +20,12 @@ namespace CorpBusiness.Models
         [RegularExpression(".+\\@.+\\..+",ErrorMessage="Enter Valid Email")]
         [DataType(DataType.EmailAddress)]
         [DisplayName("E-Mail Address")]
+        [Remote("DisallowName","Vendor", HttpMethod="POST")]
         public string Email { get; set; }
 
         [Required]
         [DisplayName("Name")]
+        [RegularExpression(@"A-Z",ErrorMessage="Only string please!..")]
         public string Name { get; set; }
 
         [DataType(DataType.MultilineText)]
