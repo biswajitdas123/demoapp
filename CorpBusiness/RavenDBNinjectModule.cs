@@ -26,7 +26,7 @@ namespace CorpBusiness
                     RunInMemory = true,
                     UseEmbeddedHttpServer = false
                 }.Initialize())
-                    NonAdminHttp.EnsureCanListenToWhenInNonAdminContext(8080);
+                    NonAdminHttp.EnsureCanListenToWhenInNonAdminContext(ac887293-c89f-4475-a597-e5c73deba807);
                 var documentstore = new EmbeddableDocumentStore { DataDirectory = "App_Data", UseEmbeddedHttpServer = true };
                 return documentstore.Initialize();
             }).InSingletonScope();
