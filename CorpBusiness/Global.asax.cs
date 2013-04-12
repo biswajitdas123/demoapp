@@ -10,6 +10,9 @@ using Ninject.Activation;
 using Ninject.Web.Mvc;
 using CorpBusiness.Attributes;
 using CorpBusiness.Validators;
+using Raven.Client;
+using Raven.Abstractions.Data;
+using Raven.Client.Document;
 
 
 
@@ -46,12 +49,25 @@ namespace CorpBusiness
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);
             DataAnnotationsModelValidatorProvider.RegisterAdapter(typeof(SameAsAttribute), typeof(SameAsValidator));
-           ValueProviderFactories.Factories.Add(new JsonValueProviderFactory());
+            ValueProviderFactories.Factories.Add(new JsonValueProviderFactory());
 
+            //}
+
+            //-----subrata-------------
+            //AreaRegistration.RegisterAllAreas();
+
+            //RegisterGlobalFilters(GlobalFilters.Filters);
+            //RegisterRoutes(RouteTable.Routes);
+
+            //var parser = ConnectionStringParser<RavenConnectionStringOptions>.FromConnectionStringName("RavenDB");
+            //parser.Parse();
+
+            //Store = new DocumentStore
+            //{
+            //    ApiKey = parser.ConnectionStringOptions.ApiKey,
+            //    Url = parser.ConnectionStringOptions.Url,
+            //}.Initialize();
         }
-       
-        //-----subrata-------------
-
        
     }
 }

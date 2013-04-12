@@ -842,3 +842,5 @@ D:\Final\04_04_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.dll
 D:\Final\04_04_2013\CorpBusiness\CorpBusiness\obj\Debug\CorpBusiness.pdb
 D:\Final\04_04_2013\CorpBusiness\CorpBusiness\bin\Elmah.dll
 D:\Final\04_04_2013\CorpBusiness\CorpBusiness\bin\TugberkUg.MVC.dll
+D:\Final\04_04_2013\CorpBusiness\CorpBusiness\bin\FSharp.Core.dll
+D:\Final\04_04_2013\CorpBusiness\CorpBusiness\bin\FSharp.Core.xml
