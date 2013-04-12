@@ -7,7 +7,7 @@ using Raven.Database.Server;
 using System.Text;
 
 
-namespace CorpBusiness
+namespace Bsnsapp
 {
     public class RavenDBNinjectModule: NinjectModule
     {
@@ -25,9 +25,12 @@ namespace CorpBusiness
                 {
                     RunInMemory = true,
                     UseEmbeddedHttpServer = false
+                    
                 }.Initialize())
-                    NonAdminHttp.EnsureCanListenToWhenInNonAdminContext(ac887293-c89f-4475-a597-e5c73deba807);
-                var documentstore = new EmbeddableDocumentStore { DataDirectory = "App_Data", UseEmbeddedHttpServer = true };
+                    NonAdminHttp.EnsureCanListenToWhenInNonAdminContext(9e81dc47-f831-4d8a-b70b-d3b5c6a8b4ce);
+                var documentstore = new EmbeddableDocumentStore { 
+                   DataDirectory = "App_Data", 
+                   UseEmbeddedHttpServer = true };
                 return documentstore.Initialize();
             }).InSingletonScope();
             Bind<IDocumentSession>().ToMethod(Context => Context.Kernel.Get<IDocumentStore>().OpenSession()).InRequestScope();
