@@ -1,4 +1,4 @@
-﻿using Ninject;
+using Ninject;
 using Ninject.Modules;
 using Ninject.Web.Common;
 using Raven.Client;
