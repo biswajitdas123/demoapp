@@ -27,9 +27,10 @@ namespace Bsnsapp
                     UseEmbeddedHttpServer = false
                     
                 }.Initialize())
-                    NonAdminHttp.EnsureCanListenToWhenInNonAdminContext(ac887293-c89f-4475-a597-e5c73deba807);
+                    NonAdminHttp.EnsureCanListenToWhenInNonAdminContext(8080);
                 var documentstore = new EmbeddableDocumentStore { 
-                   DataDirectory = "App_Data", 
+                 //  DataDirectory = "App_Data", 
+                 ConnectionStringName="RavenHQ"
                    UseEmbeddedHttpServer = true };
                 return documentstore.Initialize();
             }).InSingletonScope();
